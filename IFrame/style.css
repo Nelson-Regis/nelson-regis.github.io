@@ -1,0 +1,9 @@
+.box{
+  width:600px;
+  height:700px;
+  border: solid white;
+  text-align:center;
+  background-image:linear-gradient(red, yellow, green); 
+  padding:50px;
+  margin:0;
+    }
